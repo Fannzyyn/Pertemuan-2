@@ -32,3 +32,38 @@
   <input type="number" name="" id=""><br>
   <button>Daftar</button>
 </fieldset>
+
+
+    <table border="1">
+        <tr>
+            <th height="40px">No</th>
+            <th>NIM</th>
+            <th width="40%">Nama</th>
+            <th>Prodi</th>
+            <th>Asdos</th>
+            <th colspan="5">Absen</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>F55123006</td>
+            <td>Suparman</td>
+            <td>S1-Teknik Informatika</td>
+            <td rowspan="2">Pemrograman Web-2 Kelas A</td>
+            <td>Alpa</td>
+            <td>Hadir</td>
+            <td>Hadir</td>
+            <td>Hadir</td>
+            <td>Hadir</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>D55123006</td>
+            <td>fitriana</td>
+            <td>S1-Akuntansi</td>
+            <td>Hadir</td>
+            <td>Hadir</td>
+            <td>Hadir</td>
+            <td>Hadir</td>
+        </tr>
+    </table>
+
